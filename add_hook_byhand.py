@@ -6,9 +6,7 @@ import requests
 import time
 import sys
 
-base_url = "http://gitlab.zhenai.com/api/v4/"
-token = "Pxq_yQWU-bifbZxM8cPk"
-per_page = 100
+
 # project_name = "zhenai-cupid-login"
 project_name = sys.argv[1]    # gitlab_name
 # job = sys.argv[2]
