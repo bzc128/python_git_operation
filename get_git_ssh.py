@@ -6,9 +6,7 @@ import requests
 import re
 import sys
 
-# base_url = "http://gitlab.zhenai.com/api/v4/"
-# token = "vcTs9oiTzLaSV8ns83yT"
-# page = 100
+
 group_list = sys.argv[2].split(",")
 for g in group_list:
     print(type(g),g)
