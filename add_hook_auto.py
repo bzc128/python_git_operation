@@ -6,7 +6,7 @@ import requests
 import time
 import sys
 
-job = "http://jenkins.bp.zhenaioa.com/project/crm-merge-master-to-bugfix"
+job = "http://jenkins.com/project/crm-merge-master-to-bugfix"
 # group_list = ["cupid"]
 # group_list = ["cupid", "crm", "crm-web", "crm_pad"]
 group_list = sys.argv[1].split(",")
