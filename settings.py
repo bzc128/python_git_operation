@@ -2,7 +2,7 @@
 #coding:utf-8
 
 # gitlab的api地址
-base_url = "http://gitlab.zhenai.com/api/v4/"
+base_url = "http://gitlab.com/api/v4/"
 
 # 用户token
 token = "Pxq_yQWU-bifbZxM8cPk"
