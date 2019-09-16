@@ -10,7 +10,7 @@ import sys
 # project_name = "zhenai-cupid-login"
 project_name = sys.argv[1]    # gitlab_name
 # job = sys.argv[2]
-job = "http://jenkins.bp.zhenaioa.com/project/%s" %(sys.argv[2])
+job = "http://jenkins.com/project/%s" %(sys.argv[2])
 # group_list = ["cupid"]
 # group_list = ["cupid", "crm", "crm-web", "crm_pad"]
 # group_list = sys.argv[1].split(",")
